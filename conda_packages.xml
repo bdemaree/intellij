@@ -9,7 +9,7 @@
         <entry key="accelerate" value="2.3.1" />
         <entry key="accelerate_cudalib" value="2.0" />
         <entry key="affine" value="2.0.0" />
-        <entry key="alabaster" value="0.7.9" />
+        <entry key="alabaster" value="0.7.10" />
         <entry key="alpaca_static" value="1.5.22" />
         <entry key="anaconda" value="4.3.0" />
         <entry key="anaconda-build" value="1.15.0" />
@@ -55,7 +55,7 @@
         <entry key="bootstrap_static" value="3.3.1" />
         <entry key="boto" value="2.45.0" />
         <entry key="boto3" value="1.4.3" />
-        <entry key="botocore" value="1.4.90" />
+        <entry key="botocore" value="1.5.19" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.2.0" />
         <entry key="bsdiff4" value="1.1.5" />
@@ -1176,6 +1176,7 @@
               <option value="0.7.9" />
               <option value="0.7.7" />
               <option value="0.7.8" />
+              <option value="0.7.10" />
             </list>
           </value>
         </entry>
@@ -1793,6 +1794,7 @@
               <option value="1.4.28" />
               <option value="1.4.17" />
               <option value="1.4.9" />
+              <option value="1.5.19" />
             </list>
           </value>
         </entry>
@@ -11325,6 +11327,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1488486420807" />
+    <option name="LAST_TIME_CHECKED" value="1488576917118" />
   </component>
 </application>
