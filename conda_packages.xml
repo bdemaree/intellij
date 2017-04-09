@@ -103,7 +103,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.5" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.8" />
+        <entry key="continuum-docs" value="2.0.9" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
@@ -175,6 +175,7 @@
         <entry key="gdal" value="2.1.0" />
         <entry key="gdata" value="2.0.18" />
         <entry key="gensim" value="1.0.1" />
+        <entry key="genson" value="0.2.1" />
         <entry key="geos" value="3.5.0" />
         <entry key="get_terminal_size" value="1.0.0" />
         <entry key="gevent" value="1.2.1" />
@@ -182,7 +183,7 @@
         <entry key="gevent_zeromq" value="0.2.5" />
         <entry key="git" value="2.11.1" />
         <entry key="gitdb2" value="2.0.0" />
-        <entry key="gitpython" value="2.1.1" />
+        <entry key="gitpython" value="2.1.3" />
         <entry key="glueviz" value="0.9.1" />
         <entry key="gnuwin32" value="2015.08.18" />
         <entry key="googlecl" value="0.9.12" />
@@ -585,7 +586,7 @@
         <entry key="pastedeploy" value="1.5.2" />
         <entry key="patch" value="2.5.9" />
         <entry key="path.py" value="10.1" />
-        <entry key="pathlib2" value="2.2.0" />
+        <entry key="pathlib2" value="2.2.1" />
         <entry key="patsy" value="0.4.1" />
         <entry key="pbkdf2" value="1.3" />
         <entry key="pbr" value="1.10.0" />
@@ -947,6 +948,7 @@
         <entry key="r-weatherdata" value="0.4.1" />
         <entry key="r-whisker" value="0.3_2" />
         <entry key="r-withr" value="1.0.2" />
+        <entry key="r-xgboost" value="0.60" />
         <entry key="r-xlsx" value="0.5.7" />
         <entry key="r-xlsxjars" value="0.6.1" />
         <entry key="r-xml" value="3.98_1.5" />
@@ -1014,6 +1016,8 @@
         <entry key="svn" value="1.9.4" />
         <entry key="swig" value="3.0.10" />
         <entry key="sympy" value="1.0" />
+        <entry key="tabpy-client" value="0.2" />
+        <entry key="tabpy-server" value="0.2" />
         <entry key="tabulate" value="0.7.5" />
         <entry key="tblib" value="1.3.1" />
         <entry key="tempita" value="0.5.3" />
@@ -1025,6 +1029,7 @@
         <entry key="tk" value="8.5.18" />
         <entry key="toolz" value="0.8.2" />
         <entry key="tornado" value="4.4.2" />
+        <entry key="tornado-json" value="1.3.2" />
         <entry key="toro" value="1.0.1" />
         <entry key="tqdm" value="4.11.2" />
         <entry key="traitlets" value="4.3.2" />
@@ -2478,6 +2483,7 @@
               <option value="2.0.2" />
               <option value="2.0.7" />
               <option value="2.0.8" />
+              <option value="2.0.9" />
             </list>
           </value>
         </entry>
@@ -3254,6 +3260,13 @@
             </list>
           </value>
         </entry>
+        <entry key="genson">
+          <value>
+            <list>
+              <option value="0.2.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="geos">
           <value>
             <list>
@@ -3322,6 +3335,7 @@
           <value>
             <list>
               <option value="2.1.1" />
+              <option value="2.1.3" />
             </list>
           </value>
         </entry>
@@ -6816,6 +6830,7 @@
             <list>
               <option value="2.2.0" />
               <option value="2.1.0" />
+              <option value="2.2.1" />
             </list>
           </value>
         </entry>
@@ -9953,6 +9968,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-xgboost">
+          <value>
+            <list>
+              <option value="0.60" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-xlsx">
           <value>
             <list>
@@ -10726,6 +10748,20 @@
             </list>
           </value>
         </entry>
+        <entry key="tabpy-client">
+          <value>
+            <list>
+              <option value="0.2" />
+            </list>
+          </value>
+        </entry>
+        <entry key="tabpy-server">
+          <value>
+            <list>
+              <option value="0.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="tabulate">
           <value>
             <list>
@@ -10829,6 +10865,13 @@
               <option value="3.1" />
               <option value="2.3" />
               <option value="4.4.1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="tornado-json">
+          <value>
+            <list>
+              <option value="1.3.2" />
             </list>
           </value>
         </entry>
@@ -11471,6 +11514,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1491507591528" />
+    <option name="LAST_TIME_CHECKED" value="1491758856794" />
   </component>
 </application>
