@@ -60,9 +60,9 @@
         <entry key="bokeh" value="0.12.6" />
         <entry key="boost" value="1.61.0" />
         <entry key="bootstrap_static" value="3.3.1" />
-        <entry key="boto" value="2.47.0" />
-        <entry key="boto3" value="1.4.4" />
-        <entry key="botocore" value="1.5.67" />
+        <entry key="boto" value="2.48.0" />
+        <entry key="boto3" value="1.4.5" />
+        <entry key="botocore" value="1.5.92" />
         <entry key="bottlechest" value="0.7.1" />
         <entry key="bottleneck" value="1.2.1" />
         <entry key="bsdiff4" value="1.1.5" />
@@ -98,7 +98,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.3.23" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="3.0.8" />
+        <entry key="conda-build" value="3.0.9" />
         <entry key="conda-build-all" value="1.0.2" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -240,7 +240,7 @@
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.2.0" />
         <entry key="ipywidgets" value="6.0.0" />
-        <entry key="iso8601" value="0.1.11" />
+        <entry key="iso8601" value="0.1.12" />
         <entry key="isort" value="4.2.15" />
         <entry key="itsdangerous" value="0.24" />
         <entry key="javabridge" value="1.0.14" />
@@ -612,7 +612,7 @@
         <entry key="ordereddict" value="1.1" />
         <entry key="packaging" value="16.8" />
         <entry key="pandas" value="0.20.3" />
-        <entry key="pandas-datareader" value="0.4.0" />
+        <entry key="pandas-datareader" value="0.5.0" />
         <entry key="pandas-profiling" value="1.4.0" />
         <entry key="pandasql" value="0.7.3" />
         <entry key="pandoc" value="1.19.2.1" />
@@ -627,7 +627,7 @@
         <entry key="patch" value="2.5.9" />
         <entry key="path.py" value="10.3.1" />
         <entry key="pathlib" value="1.0.1" />
-        <entry key="pathlib2" value="2.2.1" />
+        <entry key="pathlib2" value="2.3.0" />
         <entry key="patsy" value="0.4.1" />
         <entry key="pbkdf2" value="1.3" />
         <entry key="pbr" value="1.10.0" />
@@ -1099,7 +1099,7 @@
         <entry key="tornado" value="4.5.1" />
         <entry key="tornado-json" value="1.3.2" />
         <entry key="toro" value="1.0.1" />
-        <entry key="tqdm" value="4.14.0" />
+        <entry key="tqdm" value="4.15.0" />
         <entry key="traitlets" value="4.3.2" />
         <entry key="traits" value="4.6.0" />
         <entry key="traitsui" value="5.1.0" />
@@ -1149,9 +1149,9 @@
         <entry key="xarray" value="0.9.6" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
-        <entry key="xlsxwriter" value="0.9.6" />
+        <entry key="xlsxwriter" value="0.9.8" />
         <entry key="xlutils" value="2.0.0" />
-        <entry key="xlwings" value="0.10.4" />
+        <entry key="xlwings" value="0.11.4" />
         <entry key="xlwt" value="1.2.0" />
         <entry key="xray" value="0.7.0" />
         <entry key="yaml" value="0.1.6" />
@@ -1924,6 +1924,7 @@
               <option value="2.9.0" />
               <option value="2.46.1" />
               <option value="2.47.0" />
+              <option value="2.48.0" />
             </list>
           </value>
         </entry>
@@ -1937,6 +1938,7 @@
               <option value="1.3.0" />
               <option value="1.4.3" />
               <option value="1.4.4" />
+              <option value="1.4.5" />
             </list>
           </value>
         </entry>
@@ -1970,6 +1972,7 @@
               <option value="1.5.58" />
               <option value="1.5.61" />
               <option value="1.5.67" />
+              <option value="1.5.92" />
             </list>
           </value>
         </entry>
@@ -2520,6 +2523,7 @@
               <option value="2.1.17" />
               <option value="3.0.6" />
               <option value="3.0.8" />
+              <option value="3.0.9" />
             </list>
           </value>
         </entry>
@@ -4054,6 +4058,7 @@
           <value>
             <list>
               <option value="0.1.11" />
+              <option value="0.1.12" />
             </list>
           </value>
         </entry>
@@ -7187,6 +7192,7 @@
               <option value="0.2.1" />
               <option value="0.2.0" />
               <option value="0.4.0" />
+              <option value="0.5.0" />
             </list>
           </value>
         </entry>
@@ -7338,6 +7344,7 @@
               <option value="2.2.0" />
               <option value="2.1.0" />
               <option value="2.2.1" />
+              <option value="2.3.0" />
             </list>
           </value>
         </entry>
@@ -11633,6 +11640,7 @@
             <list>
               <option value="4.11.2" />
               <option value="4.14.0" />
+              <option value="4.15.0" />
             </list>
           </value>
         </entry>
@@ -12129,6 +12137,7 @@
               <option value="0.6.3" />
               <option value="0.7.4" />
               <option value="0.5.2" />
+              <option value="0.9.8" />
             </list>
           </value>
         </entry>
@@ -12170,6 +12179,7 @@
               <option value="0.4.0" />
               <option value="0.2.1" />
               <option value="0.10.4" />
+              <option value="0.11.4" />
             </list>
           </value>
         </entry>
@@ -12301,6 +12311,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1501625204696" />
+    <option name="LAST_TIME_CHECKED" value="1501871347133" />
   </component>
 </application>
