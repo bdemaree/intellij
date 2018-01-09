@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c6e6bbfa-4bc3-437d-83aa-780ea495662f" name="GreatDane Server" url="http://greatdane.ucsf.edu">
-        <fileTransfer host="greatdane.ucsf.edu" port="22" accessType="SFTP">
+        <fileTransfer host="greatdane.ucsf.edu" port="22" rootFolder="/home/ben" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
