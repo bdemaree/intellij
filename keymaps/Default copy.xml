@@ -18,15 +18,11 @@
   <action id="FileChooser.GotoHome" />
   <action id="GotoBookmark1" />
   <action id="GotoSuperMethod" />
+  <action id="IpnbRunAllCellsAction">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl u" />
-  </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
