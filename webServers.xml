@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9e7b9677-f87d-4333-882f-fd4d36e755de" name="Greyhound Server" url="http://greyhound.ucsf.edu">
+        <fileTransfer host="greyhound.ucsf.edu" port="22" rootFolder="/home/bdemaree" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
